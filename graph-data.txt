@@ -1,0 +1,217 @@
+CS 101 Introduction to CS
+#logic
+#programming
+#cryptography
+#human-side
+#ethics
+#binary-representations
+#algorithms
+#data-structures
+#big-o-analysis
+#assembly-machine-code
+#unix-linux
+#infosec
+#cryptography
+#algorithms
+#networking
+#operating-systems
+#database-systems
+#artificial-intelligence
+#programming-languages
+#python
+
+CS 149 Intro to Programming
+#logic
+#binary-representations
+#programming
+#java
+
+CS 159 Advanced Programing
+#logic
+#oop
+#programming
+#java
+#data-structures
+
+CS 227 Discrete Structures I
+#logic
+#proof-techniques
+#set-theory
+#number-theory
+#induction-and-recursion
+#counting-and-probability
+#relations
+
+CS 240 Data Structures
+#proof-techniques
+#number-theory
+#induction-and-recursion
+#data-structures
+#graphs-and-trees
+#big-o-analysis
+#oop
+#java
+#data-structures
+#algorithms
+
+CS 261 Systems I
+#unix-linux
+#c-programming
+#binary-representations
+#assembly-machine-code
+#architectures
+#operating-systems
+#file-systems
+#virtualization
+
+CS 327 Discrete Structures II
+#proof-techniques
+#number-theory
+#induction-and-recursion
+#relations
+#linear-algebra
+#graphs-and-trees
+#computability-theory-and-automata
+#complexity
+#cryptography
+#algorithms
+
+CS 330 Ethical Issues
+#human-side
+#ethics
+
+CS 345 Software Engineering
+#oop
+#human-side
+#design
+#software-engineering
+#data-structures
+
+CS 354 Robotics
+#counting-and-probability
+#linear-algebra
+#graphs-and-trees
+#computability-theory-and-automata
+#data-structures
+#algorithms
+#artificial-intelligence
+#python
+
+CS 361 Systems II
+#unix-linux
+#binary-representations
+#assembly-machine-code
+#architectures
+#operating-systems
+#parallelization
+#networking
+#c-programming
+
+CS 430 Programming Languages
+#programming-languages
+#computability-theory-and-automata
+#parallelization
+#oop
+#design
+#programming
+#declarative-programming
+#functional-programming
+#graphs-and-trees
+
+CS 432 Compilers
+#programming-languages
+#computability-theory-and-automata
+#big-o-analysis
+#design
+#graphs-and-trees
+#data-structures
+#algorithms
+
+CS 442 Logic in CS
+#logic
+#proof-techniques
+#algorithms
+
+CS 444 Artificial Intelligence
+#counting-and-probability
+#linear-algebra
+#graphs-and-trees
+#computability-theory-and-automata
+#data-structures
+#algorithms
+#artificial-intelligence
+#python
+
+CS 446 Software Design
+#design
+#software-engineering
+#data-structures
+
+CS 447 Interaction Design
+#design
+#human-side
+
+CS 450 OS
+#unix-linux
+#assembly-machine-code
+#scheduling
+#parallelization
+#file-systems
+#virtualization
+#data-structures
+#algorithms
+#operating-systems
+
+CS 452 Algorithms
+#proof-techniques
+#complexity
+#linear-algebra
+#graphs-and-trees
+#big-o-analysis
+#data-structures
+#algorithms
+
+CS 456 Architecture
+#unix-linux
+#assembly-machine-code
+#architectures
+#operating-systems
+#scheduling
+#binary-representations
+
+CS 457 Information Security
+#proof-techniques
+#number-theory
+#complexity
+#cryptography
+#big-o-analysis
+#infosec
+
+CS 458 Cyber Defense
+#unix-linux
+#assembly-machine-code
+#file-systems
+#number-theory
+#cryptography
+#virtualization
+#infosec
+
+CS 470 Parallel and Distributed Systems
+#parallelization
+#file-systems
+#distributed-systems
+#networking
+#cryptography
+#cloud-computing
+#virtualization
+#linear-algebra
+#c-programming
+#database-systems
+
+CS 474 Databases
+#set-theory
+#distributed-systems
+#relations
+#declarative-programming
+#data-structures
+#database-systems
